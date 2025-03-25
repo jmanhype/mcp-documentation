@@ -1,5 +1,5 @@
 title: "Model Context Protocol"
-description: "Documentation for MCP"
+description: "Documentation for the Model Context Protocol (MCP)"
 baseurl: "/mcp-documentation"
 url: "https://jmanhype.github.io"
 
@@ -12,4 +12,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-remote-theme
-  - jekyll-sitemap
+
+search_enabled: true
+heading_anchors: true
+
+color_scheme: light
